@@ -1,5 +1,3 @@
-# Merix
-A simple commercial website built with PHP + MySQL
 # Merix Demo
 
 A PHP/MySQL demo website for a trading-company style business site with a small admin system for material data and BOM management.
